@@ -1,3 +1,3 @@
-https://colab.research.google.com/drive/1mXX1JrEPcXCL7TpPI_SNiie2zXFN7P8s?usp=drive_link
+http://go.kitchensak.com/0LlAass
 
 https://huggingface.co/calcuis/ace-gguf
