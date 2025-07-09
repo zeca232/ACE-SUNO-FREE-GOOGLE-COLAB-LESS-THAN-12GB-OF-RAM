@@ -1,3 +1,3 @@
-http://go.kitchensak.com/0LlAass (Colab)
+https://tpi.li/gKHN7uhd (Colab)
 
 https://huggingface.co/calcuis/ace-gguf
